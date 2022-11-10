@@ -1,0 +1,53 @@
+
+body{
+	background-color: #000;
+	background-size: cover;
+	margin: 30px;
+}
+h1, h2, h3, h4, h5, h6, p{
+	color: #000;
+	font-family: arial;
+	font-style: oblique;
+}
+table, td, th tr{
+	border: 3px solid #000;
+	width: 250px;
+	height: 250px;
+}
+img{
+	width: 300px;
+	height: 500px;
+}
+a:link, a:visited{
+		color: #000;
+		background-color: #fff;
+		font-size: 15px;
+		font-family: arial;
+		text-decoration: underline;
+	}
+	a:hover, a:active{
+		color: #000;
+		background-color: #000;
+		font-size: 20px;
+		font-family: arial;
+		text-decoration: underline;
+	}
+ul, li, ol{
+		color: #000;
+	}
+#geral{
+position: absolute;
+width: 1000px;
+height: 800px;
+border: 0px solid #000;
+}
+#conteudo{
+position: relative;
+width: auto;
+height: auto;
+border: 0px solid #000;
+}
+table{
+
+}
+	
